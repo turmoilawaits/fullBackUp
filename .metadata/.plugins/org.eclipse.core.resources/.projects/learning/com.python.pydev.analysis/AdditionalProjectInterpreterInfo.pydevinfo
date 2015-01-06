@@ -1,0 +1,55 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\learning\com.python.pydev.analysis\v2_indexcache
+pygame|1411638321101|C:\eclipse\learning\pygame.py
+test|1415254922866|C:\eclipse\learning\test.py
+smptlib|1410166750877|C:\eclipse\learning\smptlib.py
+configParser|1412677715535|C:\eclipse\learning\configParser.py
+employee|1408535196731|C:\eclipse\learning\employee.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+11=util.startTimer
+1=pygame
+2=test
+8=util.__init__
+9=Employee.__init__
+10=util.endTimer
+4=smptlib
+5=configParser
+3=employee
+7=Employee
+6=util
+-- END DICTIONARY
+-- START TREE 1
+16
+con|1|config!11@
+csv|1|csv_writer!19@
+e1|1|e1!27@
+e2|1|e2!27@
+emp|1|Employee!25@
+fil|1|file_name!19@
+get|1|get_poi_info!18@
+msg|1|msg!35@
+obj|1|obj!43@
+out|3|out_file!19@out_data!19@out!19@
+par|1|parser!19@
+poi|1|pois!19@
+roo|1|root!19@
+ser|1|server!35@
+tag|1|tag_list!19@
+uti|1|util!41@
+-- END TREE
+-- START TREE 2
+10
+__i|2|__init__!6&42@__init__!7&26@
+cre|1|createDirectory!6&42@
+dat|1|dateFormatString!8&43@
+emp|2|empName!9&27@empID!9&27@
+end|3|endTimer!6&42@endOfTimer!10&43@endOfTimer!8&43@
+sal|1|salary!9&27@
+sta|3|startOfTimer!11&43@startOfTimer!8&43@startTimer!6&42@
+ter|3|termsArr!8&43@termsUser!8&43@termPass!8&43@
+tes|2|testMethod2!6&42@testMethod1!6&42@
+tim|2|timeDiff!6&42@timeStamp!6&42@
+-- END TREE

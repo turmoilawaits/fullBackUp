@@ -1,0 +1,8 @@
+MODULES_MANAGER_V2
+faultCodeFetch|C:\eclipse\Sccm_automation\faultCodeFetch.py
+fileOperation|C:\eclipse\Sccm_automation\fileOperation.py
+fileSize|C:\eclipse\Sccm_automation\fileSize.py
+global_config|C:\eclipse\Sccm_automation\global_config.py
+logging_explained|C:\eclipse\Sccm_automation\logging_explained.py
+login_utils|C:\eclipse\Sccm_automation\login_utils.py
+ucsFaulttoCSV|C:\eclipse\Sccm_automation\ucsFaulttoCSV.py

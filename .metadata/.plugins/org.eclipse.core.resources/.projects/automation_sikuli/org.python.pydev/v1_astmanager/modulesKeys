@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+logging|C:\eclipse\automation_sikuli\logging.py
+main_test|C:\eclipse\automation_sikuli\main_test.py
+makeDir|C:\eclipse\automation_sikuli\makeDir.py
+util|C:\eclipse\automation_sikuli\util.py

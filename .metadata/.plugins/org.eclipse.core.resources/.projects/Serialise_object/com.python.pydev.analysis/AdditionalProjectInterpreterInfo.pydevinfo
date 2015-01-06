@@ -1,0 +1,27 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\Serialise_object\com.python.pydev.analysis\v2_indexcache
+sessions|1404469606339|C:\eclipse\Serialise_object\sessions.py
+test|1404466491285|C:\eclipse\Serialise_object\test.py
+serializer|1404465428749|C:\eclipse\Serialise_object\serializer.py
+server|1404466611225|C:\eclipse\Serialise_object\server.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=sessions
+2=test
+1=serializer
+4=server
+-- END DICTIONARY
+-- START TREE 1
+6
+des|1|deserialize_session!10@
+dse|1|dsession!19@
+get|1|get_logged_in_session!26@
+ser|2|server_login!34@serialize_session!10@
+ses|1|session!19@
+url|1|URL_ROOT!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

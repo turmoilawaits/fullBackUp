@@ -1,0 +1,61 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\Sccm_automation\com.python.pydev.analysis\v2_indexcache
+fileSize|1416218224968|C:\eclipse\Sccm_automation\fileSize.py
+global_config|1415250286253|C:\eclipse\Sccm_automation\global_config.py
+fileOperation|1416822055743|C:\eclipse\Sccm_automation\fileOperation.py
+faultCodeFetch|1415255528720|C:\eclipse\Sccm_automation\faultCodeFetch.py
+login_utils|1410870887682|C:\eclipse\Sccm_automation\login_utils.py
+logging_explained|1411100255880|C:\eclipse\Sccm_automation\logging_explained.py
+ucsFaulttoCSV|1415251814268|C:\eclipse\Sccm_automation\ucsFaulttoCSV.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+3=fileSize
+7=checkFile
+6=global_config
+4=fileOperation
+2=faultCodeFetch
+5=logging_explained
+1=ucsFaulttoCSV
+-- END DICTIONARY
+-- START TREE 1
+30
+bar|1|bareTag!10@
+cau|1|cause!19@
+che|1|checkFile!25@
+cod|1|code!19@
+d|1|d!11@
+dif|1|diff!35@
+ele|1|element!11@
+fna|2|fname_final!11@fname_tmp!11@
+hea|1|header!11@
+ite|1|item!11@
+k|1|k!11@
+log|1|logger!43@
+mai|1|main!42@
+mes|1|message!19@
+mo|1|mo!51@
+nam|1|name!11@
+out|2|out!19@out_file!19@
+pro|2|prop!19@prop!51@
+rea|1|reader!11@
+row|1|row!11@
+sev|1|severity!19@
+sta|1|start!35@
+sto|1|stop!35@
+typ|1|type1!19@
+ucs|1|ucsmLogFile!35@
+v|1|v!11@
+val|2|value!19@value!11@
+wri|1|writer!11@
+x|1|x!35@
+xml|3|xmldoc!51@xmldoc!19@xml_data!11@
+-- END TREE
+-- START TREE 2
+4
+fpa|1|fpath!7&27@
+is_|1|is_non_zero_file!7&26@
+reb|1|reb!7&27@
+val|1|val!7&27@
+-- END TREE

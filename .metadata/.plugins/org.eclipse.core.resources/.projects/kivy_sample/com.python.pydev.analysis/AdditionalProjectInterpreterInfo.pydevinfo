@@ -1,0 +1,17 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\kivy_sample\com.python.pydev.analysis\v2_indexcache
+main|1407757126490|C:\eclipse\kivy_sample\main.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=main
+-- END DICTIONARY
+-- START TREE 1
+2
+dat|1|data!11@
+mys|1|mysock!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

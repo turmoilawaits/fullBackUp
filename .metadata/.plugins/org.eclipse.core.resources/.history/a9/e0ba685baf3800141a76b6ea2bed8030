@@ -1,0 +1,18 @@
+'''
+Created on Sep 10, 2014
+
+@author: anksriv2
+'''
+
+import os,datetime
+
+def createDirectory(list,filename):
+    myDir = os.path.join(os.getcwd(),datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S'))    
+    os.makedirs(myDir)
+    
+    with open(os.path.join(myDir,'C:\\Users\\anksriv2\\Desktop\\Learning\\test\\logFile'),'w') as d:        
+        d.writelines(list)
+            
+            
+        
+createDirectory(['dasd','rtjf',2],test11)    

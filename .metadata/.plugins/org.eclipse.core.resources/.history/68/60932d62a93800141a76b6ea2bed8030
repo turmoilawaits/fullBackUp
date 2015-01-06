@@ -1,0 +1,13 @@
+'''
+Created on Sep 10, 2014
+
+@author: anksriv2
+'''
+
+from util import *
+
+
+def searchForTermsFromDataFile(self):
+    for i in range(len(self.termsArr)):
+        
+        

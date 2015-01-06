@@ -1,0 +1,9 @@
+<repository name="Yoxos Custom Repository" type="org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository" version="1.0.0">
+  <properties size="2">
+    <property name="p2.compressed" value="true"/>
+    <property name="p2.timestamp" value="1407924754751"/>
+  </properties>
+  <children size="1">
+    <child location="http://market.eclipsesource.com/dist/.sitestore/43/4372b7acab3daaaf3bbb96e3c5123dcc"/>
+  </children>
+</repository>

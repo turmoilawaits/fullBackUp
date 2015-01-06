@@ -1,0 +1,20 @@
+'''
+Created on Sep 10, 2014
+
+@author: anksriv2
+'''
+
+from util import *
+import os
+
+def searchForTermsFromDataFile(self):
+    for i in range(len(self.termsArr)):
+        self.searForItem(self.termsArr[i], "Terms from testdata file ")
+        
+        
+def searchForItem(self,term):
+    type(term)
+    
+    
+            
+searchForItem("josh")        

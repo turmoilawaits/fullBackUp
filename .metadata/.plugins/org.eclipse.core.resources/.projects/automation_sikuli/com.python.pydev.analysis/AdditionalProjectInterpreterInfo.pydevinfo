@@ -1,0 +1,47 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\automation_sikuli\com.python.pydev.analysis\v2_indexcache
+makeDir|1416294965181|C:\eclipse\automation_sikuli\makeDir.py
+main_test|1412677812534|C:\eclipse\automation_sikuli\main_test.py
+logging|1410858509178|C:\eclipse\automation_sikuli\logging.py
+util|1410349567653|C:\eclipse\automation_sikuli\util.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+8=util.startTimer
+5=Restaurant
+4=makeDir
+6=util.__init__
+2=main_test
+7=util.endTimer
+1=logging
+3=util
+-- END DICTIONARY
+-- START TREE 1
+9
+bod|1|body!11@
+f|1|f!11@
+fun|2|func2!18@func1!18@
+log|1|LOG_FILENAME!11@
+myg|1|myGlobal!19@
+obj|1|obj!27@
+res|1|Restaurant!33@
+uti|1|util!25@
+x|1|x!35@
+-- END TREE
+-- START TREE 2
+13
+__i|1|__init__!3&26@
+ban|1|bankrupt!5&35@
+cre|1|createDirectory!3&26@
+csv|1|csvPath!6&27@
+dat|1|dateFormatString!6&27@
+end|3|endOfTimer!7&27@endOfTimer!6&27@endTimer!3&26@
+fol|1|folder!6&27@
+moc|1|mockMethod!3&26@
+ope|1|open_branch!5&34@
+sta|3|startTimer!3&26@startOfTimer!8&27@startOfTimer!6&27@
+ter|3|termPass!6&27@termsUser!6&27@termsArr!6&27@
+tes|2|testMethod1!3&26@testMethod2!3&26@
+tim|2|timeDiff!3&26@timeStamp!3&26@
+-- END TREE

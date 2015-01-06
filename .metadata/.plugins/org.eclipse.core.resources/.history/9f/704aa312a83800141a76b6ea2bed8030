@@ -1,0 +1,21 @@
+'''
+Created on Aug 7, 2014
+
+@author: anksriv2
+'''
+
+import org.sikuli.basics.SikuliXforJython
+from sikuli import *
+
+import socket 
+
+
+
+class test(object):
+    
+    
+    
+x = test()
+
+x.    
+    

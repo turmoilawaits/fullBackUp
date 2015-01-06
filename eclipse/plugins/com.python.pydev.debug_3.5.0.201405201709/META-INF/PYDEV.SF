@@ -1,0 +1,31 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: dlnY5d2lVaQnyd5tb8Xxjo0fV9l87
+ bqzCZriXpu1ykc=
+SHA-256-Digest-Manifest: tfsW9W8gRiXSaXYOnIorDxYEyzKDtZd6EJ/zoziXAwM=
+Created-By: 1.7.0_55 (Oracle Corporation)
+
+Name: icons/start_debug_server.gif
+SHA-256-Digest: k9cglI4hhnI84/Glx/SCnJsnsroHXQj4N54bAKw1U7U=
+
+Name: LICENSE.TXT
+SHA-256-Digest: mtk2pu43aWF40oMq/sr3cRMcILygEgrX4KgNzXYsnaA=
+
+Name: META-INF/maven/org.python.pydev/com.python.pydev.debug/pom.prope
+ rties
+SHA-256-Digest: ETHH4MCAyYwaKf1V/TbxGwvIma4r7gpl67cl0gcVvcg=
+
+Name: icons/term_debug_server.gif
+SHA-256-Digest: mZQs/aeFbIvMAPH3QHR9cevyVP9JqEu51mYwL7s/MW0=
+
+Name: plugin.xml
+SHA-256-Digest: EYIdKoZRaZGvj6d+tFsJwe4oDqRu/cNIJE5QeYKQxOc=
+
+Name: META-INF/maven/org.python.pydev/com.python.pydev.debug/pom.xml
+SHA-256-Digest: RJ8hHxBIDeWQKQU7ODZJwRb/TYSuJpbG9Sy7OgVFXx8=
+
+Name: debug.jar
+SHA-256-Digest: AwQAQ4dmnaKqU34GRQQ8qG3QzIfdb0OK6ekIpbsYhqM=
+
+Name: icons/python.gif
+SHA-256-Digest: 7BNk8hM5x9P52edMsSEiF33h7FYR9U+SI6Zj+QKKObk=
+
